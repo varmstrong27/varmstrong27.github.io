@@ -5,8 +5,8 @@
 </head>
 <body>
 <h1>Veronica Armstrong Profile</h1>
-<img src="/profile_pic.jpg" alt="picture of Veronica" width="128" height="128">
-<br>
+<img src="/profile_pic.jpg" alt="picture of Veronica" style="width:128px;height:128px;">
+<br><br>
 <a href="https://github.com/varmstrong27/ruby-challenges">Ruby Challenges</a>
 </body>
 </html>
