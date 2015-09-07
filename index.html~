@@ -1,3 +1,3 @@
 <h1>Veronica Armstrong Profile</h1>
-<img src=/home/veronica/Pictures/profile_pic.jpg>
+<img src="/home/veronica/Pictures/profile_pic.jpg" alt="picture of Veronica">
 <a href="https://github.com/varmstrong27/ruby-challenges">Ruby Challenges</a>
